@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.gradient {
+  border-radius: 15px;
+  width: 1380px;
+  height: 617px;
+  background-image: linear-gradient(90deg, #C1DEE8 0%, #FBD9B9 100%);
+}
+
+.gradient1 {
+  border-radius: 15px;
+  width: 1380px;
+  height: 527px;
+  background-image: linear-gradient(90deg, #C1DEE8 0%, #FBD9B9 100%);
+}
